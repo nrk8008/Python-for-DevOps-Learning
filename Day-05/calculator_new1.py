@@ -19,7 +19,13 @@ elif operation == "sub":
     output = sub(num1, num2)
 elif operation == "mul":
     output = mul(num1, num2)
-else:
-    output = "Invalid operation"
+else :
+    output = "Invalid Operation"
+# elif operation == "sub":
+#     output = sub(num1, num2)
+# elif operation == "mul":
+#     output = mul(num1, num2)
+# else:
+#     output = "Invalid operation"
 
-print(output)
+# print(output)
